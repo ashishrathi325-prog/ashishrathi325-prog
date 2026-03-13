@@ -1,93 +1,116 @@
 # Hi 👋 I'm Ashish Rathi
 
-💻 Java Backend Developer | Spring Boot | REST APIs | MySQL  
+💻 **Java Backend Developer | Spring Boot | REST APIs | MySQL**
 
-I am a passionate Java Backend Developer with a strong foundation in Core Java and backend technologies. I enjoy building scalable and secure backend applications using Spring Boot and REST APIs.
+I am a passionate **Java Backend Developer** with a strong foundation in Core Java and backend technologies.
+I enjoy building **secure and scalable backend applications** using **Spring Boot, REST APIs, Hibernate, and MySQL**.
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-- Core Java
-- Object Oriented Programming (OOP)
-- Collections & Multithreading
-- Spring Boot
-- Spring Security (Basic Auth & JWT)
-- Hibernate & JPA
-- JDBC
-- REST API Development
-- MySQL
-- Git & GitHub
-- Postman
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
 ## 📂 Projects
 
 ### 🏦 Banking Management System
-Spring Boot based banking backend application.
 
-Features
-- Account creation
-- Deposit & Withdrawal
-- Fund transfer
-- Role based authentication
-- Password encryption using BCrypt
-- Exception handling
-- REST API testing using Postman
+A Spring Boot backend application for managing banking operations.
 
-GitHub Link  
+**Features**
+
+* Account creation
+* Deposit and withdrawal
+* Fund transfer
+* Role-based authentication
+* Password encryption using BCrypt
+* Exception handling
+* REST API testing using Postman
+
+🔗 GitHub Repository
 https://github.com/ashishrathi325-prog/Banking-Application-SpringBoot
 
 ---
 
 ### 👨‍💼 Employee Management System
-Spring Boot backend application for managing employee data.
 
-Features
-- Employee CRUD operations
-- REST API development
-- Spring Boot + JPA + MySQL
-- Validation and exception handling
+A Spring Boot REST API project for managing employee records.
 
-GitHub Link  
+**Features**
+
+* Employee CRUD operations
+* REST API development
+* Spring Boot with JPA and MySQL
+* Validation and exception handling
+
+🔗 GitHub Repository
 https://github.com/ashishrathi325-prog/Emp_jpa_restApi
 
 ---
 
 ### 🔗 RESTful API CRUD Application
-Spring Boot REST API project demonstrating CRUD operations.
 
-Features
-- GET API
-- POST API
-- PUT API
-- DELETE API
-- MySQL database integration
-- Spring Boot + JPA + Hibernate
+A Spring Boot REST API project demonstrating CRUD operations.
 
-GitHub Link  
+**Features**
+
+* GET API
+* POST API
+* PUT API
+* DELETE API
+* MySQL database integration
+* Spring Boot with JPA and Hibernate
+
+🔗 GitHub Repository
 https://github.com/ashishrathi325-prog/JpaRestfull_Api_Curd
 
 ---
 
-## 🛠 Tools & Technologies
+## 📊 GitHub Stats
 
-Java | Spring Boot | Spring Security | Hibernate | JPA | MySQL | Git | GitHub | Postman | Eclipse | Spring Tool Suite (STS)
+![Ashish GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishrathi325-prog\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrathi325-prog\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🛠 Tools
+
+* Eclipse
+* Spring Tool Suite (STS)
+* Postman
+* Git
+* GitHub
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email  
-ashishrathi325@gmail.com
+📧 Email
+[ashishrathi325@gmail.com](mailto:ashishrathi325@gmail.com)
 
-🔗 LinkedIn  
+🔗 LinkedIn
 https://linkedin.com/in/ashish-rathi-91b599236
 
-💻 GitHub  
+💻 GitHub
 https://github.com/ashishrathi325-prog
 
 ---
 
 ⭐ Always learning new technologies and improving my backend development skills.
+
