@@ -1,4 +1,7 @@
-# Hi 👋 I'm Ashish Rathi
+<h1 align="center">Hi 👋, I'm Ashish Rathi</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashishrathi325-prog&label=Profile%20views&color=0e75b6&style=flat)
 
 💻 **Java Backend Developer | Spring Boot | REST APIs | MySQL**
 
@@ -82,6 +85,7 @@ https://github.com/ashishrathi325-prog/JpaRestfull_Api_Curd
 ![Ashish GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishrathi325-prog\&show_icons=true\&theme=tokyonight)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=ashishrathi325-prog&theme=tokyonight)
 
 ## 💻 Top Languages
 
@@ -113,4 +117,5 @@ https://github.com/ashishrathi325-prog
 ---
 
 ⭐ Always learning new technologies and improving my backend development skills.
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
