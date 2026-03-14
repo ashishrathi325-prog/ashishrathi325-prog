@@ -98,7 +98,6 @@ https://github.com/ashishrathi325-prog/JpaRestfull_Api_Curd
 * Eclipse
 * Spring Tool Suite (STS)
 * Postman
-* Git
 * GitHub
 
 ---
